@@ -1,0 +1,13 @@
+﻿  Boundary_Circle_Assignment 1.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,9): warning C4005: 'APIENTRY': macro redefinition
+  (compiling source file 'Boundary_Circle_Assignment%201.cpp')
+      C:\Users\User\vcpkg\installed\x64-windows\include\GLFW\glfw3.h(123,11):
+      see previous definition of 'APIENTRY'
+  
+C:\Users\User\Downloads\Ass1\Boundary_Circle_Assignment 1\Boundary_Circle_Assignment 1\Boundary_Circle_Assignment 1.cpp(18,41): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\User\Downloads\Ass1\Boundary_Circle_Assignment 1\Boundary_Circle_Assignment 1\Boundary_Circle_Assignment 1.cpp(18,41): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Downloads\Ass1\Boundary_Circle_Assignment 1\Boundary_Circle_Assignment 1\Boundary_Circle_Assignment 1.cpp(18,73): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\User\Downloads\Ass1\Boundary_Circle_Assignment 1\Boundary_Circle_Assignment 1\Boundary_Circle_Assignment 1.cpp(18,73): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Boundary_Circle_Assignment 1.vcxproj -> C:\Users\User\Downloads\Ass1\Boundary_Circle_Assignment 1\x64\Debug\Boundary_Circle_Assignment 1.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
